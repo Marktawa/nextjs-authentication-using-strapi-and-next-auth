@@ -101,5 +101,7 @@ Log in using your Google account by clicking **Sign In**. Once signed in, you ca
 
 ## Author
 
+![author cover](https://res.cloudinary.com/craigsims808/image/upload/v1738926054/strapi/strapi-next-auth/authorcover_kyhquw.jpg)
+
 Mark Munyaka  
 [dev.to/markmunyaka](https://dev.to/markmunyaka)
